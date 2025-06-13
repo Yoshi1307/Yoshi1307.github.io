@@ -14,20 +14,20 @@
 Heute habe ich damit begonnen, mein neues Repo einzurichten. Anschliessend zeichnete ich den Entwurf für meine Webseite, wie sie aussehen sollte. Als Nächstes schrieb ich mir die Do's und Don't's der Beispiele auf. Ich merkte das es sehr langweilig aussieht, wenn einfach alles in einer Farbe auf der Seite steht. Es sollen aber keine unpassenden Farben sein und 1-2 Fotos haben. Ich finde es auch gut wenn es ein bisschen interaktiv ist, und sich sachen beim drauffahren bewegen. Danach begann ich das Layout in VS Code zu nachzustellen. Als Grundlage nahm ich mir das Beispiel, das wir hatten, und passte es grob meinem Entwurf an.
 ## 13.6
 
-- [ ] Hintergrundbild einfügen
+- [X] Hintergrundbild einfügen
 - [ ] Text für "Über mich"
 - [ ] Text für "Meine Projekte"
-- [ ] Sinnvolle Farben wählen
+- [X] Sinnvolle Farben wählen
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich als erstes die Farben geändert. Momentan ist alles in verschiedenen blautönen, was mir einigermassen gefällt aber immer noch nicht gut ist. Als nächstes habe ich einen Füllertext hinzugefügt das meine Links funktioniern und es richtig runter scrollt. ich habe eine Smoothe Animation eingefügt und SChatten beim drüber hovern. 
 
-☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
+
 
 ## 20.7
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Meine Projekte einfügen
+- [ ] Bilder für die Projekte einfügen
+- [ ] Seite Ansprechbarer machen
 - [ ] ...
 
 ✍️ Heute habe ich... (50-100 Wörter)
