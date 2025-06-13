@@ -1,17 +1,22 @@
+ html {
+  scroll-behavior: smooth;
+ }
+ 
  body {
   font-family: Arial, sans-serif;
   margin: 20px;
-  background-color: #f4f4f4;
+  background-image:url("rm218batch4-ning-30.jpg");
 }
 
+
 header {
-  background-color: #4c8caf;
+  background-color: rgba(255, 255, 255, 0.671); 
   padding: 20px;
   max-width: 800px;
   border-radius: 15px;
   margin:auto;
   text-align: center;
-  color: white;
+  color: #659EC2;
 }
 
 .nav-boxen {
@@ -19,30 +24,40 @@ header {
   gap: 15px;
   margin-top: 20px;
   justify-content: center;
+  a {text-decoration: none;}
 }
 
 .nav-box {
-  background-color: #4adc15;
+  background-color: #2A5F9F;
   padding: 10px 20px;
   border-radius: 8px;
   color: black;
   width: 110px;
   text-align: center;
+  margin: 0px 15px;
+   transition: all 0.4s ease;
 }
 
+.nav-box:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 25px rgba(17, 17, 17, 0.3);
+} 
 .uber-mich {
-  margin-top: 40px;
-  background-color: red;
-  padding: 15px;
-  border-radius: 8px;
+  margin: 20px 150px;
+  background-color:  #78D5D7;
+  padding: 20px 30px;
+  border-radius: 40px;
+  color: black;
 }
 
 .projekte {
-  margin-top: 40px;
-  background-color:purple;
-  padding: 15px;
-  border-radius: 8px;
+  margin: 20px 150px;
+  background-color:  rgba(91, 93, 214, 0.671); 
+  padding: 20px 30px;
+  border-radius: 40px;
+  a {text-decoration: none;}
 }
+
 footer {
   margin-top: 40px;
   text-align: center;
