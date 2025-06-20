@@ -23,24 +23,22 @@ Heute habe ich als erstes die Farben geändert. Momentan ist alles in verschiede
 
 
 
-## 20.7
+## 20.6
 
-- [ ] Meine Projekte einfügen
-- [ ] Bilder für die Projekte einfügen
-- [ ] Seite Ansprechbarer machen
+- [X] Meine Projekte einfügen
+- [X] Bilder für die Projekte einfügen
+- [X] Seite Ansprechbarer machen
 - [ ] ...
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich zuerst damit begonnen, den CSS Teil zu schreiben, dass ich bei meinen Projekten so Boxen drumherum habe. Als nächstes habe ich die Projekt-Bilder hinzugefügt. Danach habe ich den Link zu meinem Github Prfil so geändert, dass man auf das Logo drauklicken kann und weiter geleitet wird. Am ende habe ich noch die Farben der Infoboxen geändert un meinen "Über mich" Text geschrieben.
 
-☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
 
 ## 27.7 Abschluss
 
-- [ ] ...
-- [ ] ...
+- [ ] Direkte Links zu den Projekten hinzufügen, so dass man die Projekte direkt anschauen kann.
+- [ ] (Noch kein/e zweites Arbeitspaket/Rückmeldung bekommen)
 
 ✍️ Heute habe ich... (50-100 Wörter)
-
 ☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
 
 ## Reflexion
