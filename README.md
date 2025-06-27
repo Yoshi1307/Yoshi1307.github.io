@@ -35,8 +35,8 @@ Heute habe ich zuerst damit begonnen, den CSS Teil zu schreiben, dass ich bei me
 
 ## 27.7 Abschluss
 
-- [ ] Direkte Links zu den Projekten hinzufügen, so dass man die Projekte direkt anschauen kann.
-- [ ] (Noch kein/e zweites Arbeitspaket/Rückmeldung bekommen)
+- [X] Direkte Links zu den Projekten hinzufügen, so dass man die Projekte direkt anschauen kann.
+- [X] Farben der Textboxen heller machen, das man den Text sieht
 
 ✍️ Heute habe ich... (50-100 Wörter)
 ☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
